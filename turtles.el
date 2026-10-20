@@ -4,7 +4,7 @@
 
 ;; Author: Stephane Zermatten <szermatt@gmx.net>
 ;; Maintainer: Stephane Zermatten <szermatt@gmail.com>
-;; Version: 2.1.0
+;; Version: 2.1.1snapshot
 ;; Package-Requires: ((emacs "26.1") (compat "30.0.1.0"))
 ;; Keywords: testing, unix
 ;; URL: http://github.com/szermatt/turtles
