@@ -20,7 +20,7 @@ It's especially suited to test:
 - mouse, menu and button interactions
 
 Read the full documentation on
-[turtles-readthedocs.io](https://turtles.readthedocs.io/en/latest/index.html)
+[turtles.readthedocs.io](https://turtles.readthedocs.io/en/latest/index.html)
 or in the info manual that comes with the package.
 
 ## Status
